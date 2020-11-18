@@ -68,6 +68,7 @@ Suggests:
     survivalsvm,
     tensorflow (>= 2.0.0),
     testthat,
+    mgcv,
     usethis
 Remotes:
     mlr-org/mlr3proba,

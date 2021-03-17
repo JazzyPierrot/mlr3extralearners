@@ -1,3 +1,19 @@
+# mlr3extralearners 0.4.0
+
+* Added `LearnerRegrGam` and `LearnerClassifGam` with keys `regr.gam` and `classif.gam` from package `mgcv`.
+
+# mlr3extralearners 0.3.6
+
+* `surv.coxboost` now uses the GitHub version instead of CRAN (archived)
+
+# mlr3extralearners 0.3.4
+
+* Add support for custom families to `regr.glmboost`
+
+# mlr3extralearners 0.3.1
+
+* `surv.svm` now supports all feature types
+
 # mlr3extralearners 0.3.0
 
 * Added `LearnerRegrLightGBM` and `LearnerClassifLightGBM` with keys `regr.lightgbm` and `classif.lightgbm` respectively. Copied from [mlr3learners.lightgbm](https://github.com/mlr3learners/mlr3learners.lightgbm)
